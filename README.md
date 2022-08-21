@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Md Habibur Rahman Tusar</h1>
-I am from Bangladesh....Student of Computing & Information System at Daffodil International University | I really enjoy programming , Data analysis & Machine Learning....A passionate data science enthusiast from BD....||
-<h3 align="center">Machine Learning | Deep Learning | Python | Database | Java | Android App Development | C </h3>
+I am from Bangladesh....Student of Computing & Information System at Daffodil International University | I really enjoy programming , Data analysis & Machine Learning....
+<h3 align="center">Laravel | PHP | Database | Machine Learning | Deep Learning | Python |  Java | Android App Development  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrtusar&label=Profile%20views&color=0e75b6&style=flat" alt="hrtusar" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning | Deep Learning | Data Analysis**
+- 🔭 I’m currently working on ** Laravel | PHP | Database | Machine Learning | Deep Learning | Data Analysis**
 
-- 🌱 I’m currently learning **Deep Learning | Advanced Database | Advanced Object Oriented Programming | Operating System**
+- 🌱 I’m currently learning ** Laravel | Advanced Database | Advanced Object Oriented Programming | Deep Learning **
 
 - 👯 I’m looking to collaborate on **Research paper....**
 
