@@ -4,11 +4,9 @@ I am from Bangladesh....Student of Computing & Information System at Daffodil In
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrtusar&label=Profile%20views&color=0e75b6&style=flat" alt="hrtusar" /> </p>
 
-- 🔭 I’m currently working on ** Laravel | PHP | Database | Machine Learning | Deep Learning | Data Analysis**
+- 🔭 I’m currently working on ** Laravel | PHP | Database | Machine Learning **
 
-- 🌱 I’m currently learning ** Laravel | Advanced Database | Advanced Object Oriented Programming | Deep Learning **
-
-- 👯 I’m looking to collaborate on **Research paper....**
+- 🌱 I’m currently learning ** Microweber  **
 
 - 📫 How to reach me **hrtusar2@gmail.com | habibur16-415@diu.edu.bd**
 
